@@ -29,7 +29,7 @@ public class purchaseSQL {
 
 			if(!conn.isClosed())
 
-			System.out.println("Succeeded connecting to the Database!");
+			System.out.println("Succeeded connecting to the Database!come on");
 
 			// statement”√¿¥÷¥––SQL”Ôæ‰
 			PreparedStatement pstmt =  conn.prepareStatement(sql);
